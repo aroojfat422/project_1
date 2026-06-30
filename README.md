@@ -1,6 +1,12 @@
 # DecodeBot - Python GUI Chatbot
 
-<img width="200" height="200" align="center" alt="chatbot" src="https://github.com/user-attachments/assets/6eaf77c1-a306-4999-8bc5-e92a44cfdb32" />
+## 📸 Screenshot
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6eaf77c1-a306-4999-8bc5-e92a44cfdb32"
+       alt="DecodeBot Screenshot"
+       width="600">
+</p>
 
 DecodeBot is a simple desktop chatbot built using **Python** and **Tkinter**. It provides predefined responses to common user inputs through a clean and beginner-friendly graphical user interface (GUI).
 
