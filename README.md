@@ -4,7 +4,7 @@ DecodeBot is a simple desktop chatbot built using **Python** and **Tkinter**. It
 
 This project is ideal for beginners who want to learn GUI development, event handling, and basic chatbot logic in Python.
 
-## 📸 Screenshot
+## Screenshot
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6eaf77c1-a306-4999-8bc5-e92a44cfdb32"
@@ -39,14 +39,14 @@ otherwise
 
 | User Input | Bot Response |
 |------------|--------------|
-| hi | Hello! 👋 |
-| hello | Hi! 😊 |
-| how are you | I am fine. 😊 |
-| what is your name | I am DecodeBot. 🤖 |
-| who made you | Arooj made me. 👩‍💻 |
-| good morning | ☀️ Good Morning! Have a wonderful day. |
-| good afternoon | 🌞 Good Afternoon! |
-| exit | Goodbye! 👋 (Application closes automatically) |
+| hi | Hello!  |
+| hello | Hi!  |
+| how are you | I am fine. |
+| what is your name | I am DecodeBot. |
+| who made you | Arooj made me. |
+| good morning | Good Morning! Have a wonderful day. |
+| good afternoon | Good Afternoon! |
+| exit | Goodbye! (Application closes automatically) |
 
 If an unknown message is entered, the bot replies:
 
