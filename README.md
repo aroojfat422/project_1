@@ -9,7 +9,7 @@ This project is ideal for beginners who want to learn GUI development, event han
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6eaf77c1-a306-4999-8bc5-e92a44cfdb32"
        alt="DecodeBot Screenshot"
-       width="600">
+       width="300">
 </p>
 
 ## Features
