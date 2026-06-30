@@ -1,5 +1,9 @@
 # DecodeBot - Python GUI Chatbot
 
+DecodeBot is a simple desktop chatbot built using **Python** and **Tkinter**. It provides predefined responses to common user inputs through a clean and beginner-friendly graphical user interface (GUI).
+
+This project is ideal for beginners who want to learn GUI development, event handling, and basic chatbot logic in Python.
+
 ## 📸 Screenshot
 
 <p align="center">
@@ -7,10 +11,6 @@
        alt="DecodeBot Screenshot"
        width="600">
 </p>
-
-DecodeBot is a simple desktop chatbot built using **Python** and **Tkinter**. It provides predefined responses to common user inputs through a clean and beginner-friendly graphical user interface (GUI).
-
-This project is ideal for beginners who want to learn GUI development, event handling, and basic chatbot logic in Python.
 
 ## Features
 
